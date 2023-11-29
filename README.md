@@ -21,6 +21,8 @@ To run it locally you have to:
 - Run `mvn compile`
 - Run `java -jar .\target\bazar-0.0.1-SNAPSHOT.jar`
 
+##### You need [JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) and [Maven](https://maven.apache.org/index.html)
+
 The app meets the requirement of the asignment so here's what you can do:
 - CRUD operations of clients
 - CRUD operations of products
