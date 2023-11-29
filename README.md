@@ -1,8 +1,7 @@
 # Variety Store Backend
 
 This project was made as a conclusion for the APIs development with [Spring Boot](https://todocodeacademy.com/course/desarrollo-de-apis-con-spring-boot/) course from TodoCode.
-The asignment can be seen in the following PDF:
-<embed src="./asignment-final-project.pdf" type="application/pdf" width="100%" height="600px" />
+The asignment can be seen in the following [PDF](./asignment-final-project.pdf)
 
 I used the following tecnologies for this project:
 - Java 17
